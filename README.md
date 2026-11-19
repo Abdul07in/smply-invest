@@ -8,6 +8,7 @@ The Next.js app is in [`frontend`](./frontend). It uses React, TypeScript, MUI, 
 
 Source repository: [Abdul07in/smply-invest](https://github.com/Abdul07in/smply-invest)  
 Vercel project: [smply-invest](https://vercel.com/abdul07ins-projects/smply-invest)
+Production demo: [smply-invest](https://smply-invest-abdul07ins-projects.vercel.app)
 
 ```powershell
 cd frontend
