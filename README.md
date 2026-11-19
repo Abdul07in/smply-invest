@@ -6,6 +6,9 @@ Paper-trading dashboard demo for Nifty 50 with a candlestick chart, saved tradin
 
 The Next.js app is in [`frontend`](./frontend). It uses React, TypeScript, MUI, Tailwind CSS v4, and Redux Toolkit.
 
+Source repository: [Abdul07in/smply-invest](https://github.com/Abdul07in/smply-invest)  
+Vercel project: [smply-invest](https://vercel.com/abdul07ins-projects/smply-invest)
+
 ```powershell
 cd frontend
 npm install
